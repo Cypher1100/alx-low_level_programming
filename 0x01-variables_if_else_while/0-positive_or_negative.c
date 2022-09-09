@@ -6,6 +6,7 @@
 *main - Prints if number is positive, zero or negative
 *
 * Description: This code prints if number is positive, negative or zero
+* using the main function
 * Return: 0
 */
 int main(void)
