@@ -5,7 +5,7 @@
 /**
 * main - Prints if number is positive, zero or negative
 *
-* Description: this program prints "Number is posive, 
+* Description: this program prints "number is positive
 * negative or zero using the main function
 * Return: 0
 */
@@ -28,5 +28,5 @@ else if (n < 0)
 {
 	printf("%i is negative\n", n);
 }
-return(0);
+return (0);
 }
