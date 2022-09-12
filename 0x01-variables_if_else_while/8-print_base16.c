@@ -1,13 +1,12 @@
-#include <stdio.h>                                                                                                                    
-/**                                                                                                                                   
- *
- * main - rints all the numbers of base 16 in lowercase 
+#include <stdio.h>
+/**
+ * main - prints all the numbers of base 16 in lowercase
  *
  * Description: this code prints all the numbers
  * of base 16 in lowercase
  * using the main function
  * Return: 0
- */                                                                                                                                   
+ */
 int main(void)
 {
 char c;
