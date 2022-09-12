@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
-*main - Prints if number is positive, zero or negative
+* main - Prints if number is positive, zero or negative
 *
-*Description: this program prints "Number is posive, 
+* Description: this program prints "Number is posive, 
 * negative or zero using the main function
 * Return: 0
 */
