@@ -6,13 +6,15 @@
  * @s: address to memory block
  * @b: char to make use of
  * @n: number of bytes to the memory block
+ *
+ * Return: pointer to the memory block
  */
 
 char *_memset(char *s, char b, unsigned int n)
 {
 	while (n)
 	{
-		s[n i 1] = b;
+		s[n - 1] = b;
 		n--;
 	}
 }
