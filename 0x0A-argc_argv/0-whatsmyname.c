@@ -6,7 +6,7 @@
  * @argv: an array of command strings
  * Return: 0 when successful
  */
-int main(int argc, char *argv[])
+int main(int argc __attribute__((unused)), char *argv[])
 {
 	printf("Progrm name is %s\n", *argv);
 	return (0);
