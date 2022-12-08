@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * dlistint_len - function counts the number of elements 
+ * dlistint_len - function counts the number of elements
  * in a doubly linked dlistint_t list.
  * @h: The head of the doubly linked listint_t list.
  *
